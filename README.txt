@@ -24,13 +24,13 @@ may flag it as "Unknown" or "Suspicious."
   This is a safe, open-source script designed only to move your files.
 
 --- HOW TO USE ---
-Whenever your Downloads folder gets messy, just double-click the 
+Whenever your Downloads folder gets messy, just double click the 
 "Downloads Sorter" icon on your desktop. It runs invisibly and finishes 
 in seconds!
 
 --- FEATURES ---
-- Sorts files into: Installers, Documents, Media, Archives, and To Review.
+- Sorts files into: Installers, Documents, Media, Archives, Temporary and To Review.
 - Cleans up 'Temporary' files older than 14 days.
 - Creates a 'SortDownloads.log' in your Downloads folder so you can see what moved.
 
-Enjoy your clean desktop!
+Enjoy your clean Desktop folder!
