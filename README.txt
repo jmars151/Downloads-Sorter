@@ -1,5 +1,5 @@
 ﻿=========================================
-      Downloads Sorter v1.1.0
+      Downloads Sorter v1.1.1
 =========================================
 
 Thank you for using Downloads Sorter! This tool automatically organizes your 

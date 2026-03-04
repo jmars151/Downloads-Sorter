@@ -1,4 +1,4 @@
-﻿# Downloads Sorter v1.1.0
+﻿# Downloads Sorter v1.1.1
 A lightweight, open-source PowerShell tool to automatically organize your 
 cluttered Windows Downloads folder.
 
@@ -9,8 +9,10 @@ cluttered Windows Downloads folder.
   - 'Media' (.jpg, .png, .mp4, .mp3, etc.)
   - 'Archives' (.zip, .rar, .7z)
   - 'To Review' (Code files, Torrents, Unknowns)
-- **NEW: Optional Auto-Cleanup:** Choose to run the cleanup automatically every 
+- **Optional Auto-Cleanup:** Choose to run the cleanup automatically every 
   6 hours (starts at 6:00 AM) during installation.
+- **Resilient Scheduling:** Task is set to run as soon as possible if a 
+  scheduled run is missed (e.g., if the computer was off).
 - **Automatic Cleanup:** Deletes files in the 'Temporary' folder older than 14 days.
 - **Detailed Logging:** Creates a 'SortDownloads.log' so you can track all moved files.
 - **Custom Icon:** Includes a custom-designed "Coffee & Folder" icon for your desktop shortcut.
