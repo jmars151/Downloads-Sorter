@@ -1,5 +1,5 @@
 ﻿=========================================
-      Downloads Sorter v1.0.0
+      Downloads Sorter v1.1.0
 =========================================
 
 Thank you for using Downloads Sorter! This tool automatically organizes your 
@@ -9,7 +9,9 @@ Installers, and more.
 --- INSTALLATION ---
 1. Extract ALL files from this ZIP folder to a new folder on your computer.
 2. Double-click 'Installer.exe' to begin.
-3. Once finished, you will find a "Downloads Sorter" shortcut on your desktop.
+3. (Optional) Choose to enable 'Auto-Cleanup' to have the program run 
+   automatically every 6 hours (6am, 12pm, 6pm, 12am).
+4. Once finished, you will find a "Downloads Sorter" shortcut on your desktop.
 
 --- IMPORTANT: ANTIVIRUS WARNINGS ---
 Because this is a custom-made app and not "digitally signed" with an expensive 
@@ -24,9 +26,10 @@ may flag it as "Unknown" or "Suspicious."
   This is a safe, open-source script designed only to move your files.
 
 --- HOW TO USE ---
-Whenever your Downloads folder gets messy, just double click the 
-"Downloads Sorter" icon on your desktop. It runs invisibly and finishes 
-in seconds!
+- AUTO: If enabled, it runs in the background 4 times a day.
+- MANUAL: Whenever your Downloads folder gets messy, just double click the 
+  "Downloads Sorter" icon on your desktop. It runs invisibly and finishes 
+  in seconds!
 
 --- FEATURES ---
 - Sorts files into: Installers, Documents, Media, Archives, Temporary and To Review.
