@@ -33,4 +33,4 @@ in seconds!
 - Cleans up 'Temporary' files older than 14 days.
 - Creates a 'SortDownloads.log' in your Downloads folder so you can see what moved.
 
-Enjoy your clean desktop!
+Enjoy your clean Downloads folder!
