@@ -1,35 +1,19 @@
-﻿# Downloads Sorter v1.1.1
+﻿# Downloads Sorter v1.1.2
 A lightweight, open-source PowerShell tool to automatically organize your 
 cluttered Windows Downloads folder.
 
 ## Key Features
-- **Smart Sorting:** Automatically categorizes files into subfolders:
-  - 'Installers' (.exe, .msi, .iso, .apk)
-  - 'Documents' (.pdf, .docx, .xlsx, .csv, .txt, etc.)
-  - 'Media' (.jpg, .png, .mp4, .mp3, etc.)
-  - 'Archives' (.zip, .rar, .7z)
-  - 'To Review' (Code files, Torrents, Unknowns)
-- **Optional Auto-Cleanup:** Choose to run the cleanup automatically every 
-  6 hours (starts at 6:00 AM) during installation.
+- **Smart Sorting:** Automatically categorizes files into subfolders.
+- **Improved Auto-Cleanup:** Choice to run the cleanup automatically every 
+  6 hours (starts at 6:00 AM) with a more compatible task trigger.
 - **Resilient Scheduling:** Task is set to run as soon as possible if a 
-  scheduled run is missed (e.g., if the computer was off).
-- **Automatic Cleanup:** Deletes files in the 'Temporary' folder older than 14 days.
-- **Detailed Logging:** Creates a 'SortDownloads.log' so you can track all moved files.
-- **Custom Icon:** Includes a custom-designed "Coffee & Folder" icon for your desktop shortcut.
-- **Easy Installer:** Comes with a custom-built C# installer for one-click setup.
-
-## How It Works
-Downloads Sorter is a PowerShell script wrapped in a C# executable to run silently 
-in the background. It creates a desktop shortcut that you can double-click 
-whenever your Downloads folder needs a quick cleanup.
+  scheduled run is missed.
+- **Detailed Logging:** Track all moved files in 'SortDownloads.log'.
+- **Custom Icon:** Includes the "Coffee & Folder" icon.
+- **Easy Installer:** Custom-built C# installer for one-click setup.
 
 ## Installation
 1. Download the latest release ZIP.
 2. Extract all files to a folder.
 3. Run Installer.exe.
 4. (Optional) Select 'Yes' when prompted for automatic 6-hour cleanup.
-
-## Built With
-- PowerShell 7
-- C# (.NET Framework)
-- GDI+ (for icon generation)
